@@ -1,0 +1,13 @@
+{
+  "username": "abhi",
+  "result": {
+    "label": "No Tumor",
+    "confidence": 0.93,
+    "model_version": "v1",
+    "notes": "Demo prediction \u2014 replace with real model inference"
+  },
+  "input_summary": {
+    "image_b64_size": 9868
+  },
+  "server_ts": "2025-11-28T11:31:54.552319"
+}

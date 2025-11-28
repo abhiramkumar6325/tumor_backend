@@ -1,0 +1,12 @@
+venv/
+env/
+__pycache__/
+*.pyc
+uploads/
+reports/
+*.npz
+*.h5
+*.webp
+uploads.jsonl
+*.log
+.DS_Store

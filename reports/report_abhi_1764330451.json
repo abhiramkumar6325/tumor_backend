@@ -1,0 +1,9 @@
+{
+  "username": "abhi",
+  "report": {
+    "label": "No Tumor",
+    "confidence": 0.93,
+    "model_version": "v1"
+  },
+  "timestamp": 1764330451
+}

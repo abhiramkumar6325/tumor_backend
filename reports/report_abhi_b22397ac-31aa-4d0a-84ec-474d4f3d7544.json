@@ -1,0 +1,13 @@
+{
+  "id": "b22397ac-31aa-4d0a-84ec-474d4f3d7544",
+  "username": "abhi",
+  "report": {
+    "label": "No Tumor",
+    "confidence": 0.93,
+    "model_version": "v1",
+    "notes": "Demo prediction \u2014 replace with real model inference"
+  },
+  "timestamp": 1764335473820,
+  "status": "pending",
+  "doctor_notes": ""
+}
